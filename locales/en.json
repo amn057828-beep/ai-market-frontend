@@ -1,0 +1,10 @@
+{
+  "dashboard": "Dashboard",
+  "alerts": "Alerts",
+  "portfolio": "Portfolio",
+  "watchlist": "Watchlist",
+  "market_scanner": "Market Scanner",
+  "universal_search": "Universal Search",
+  "add_to_watchlist": "+ Add to Watchlist",
+  "no_live_alerts": "No live alerts yet."
+}
